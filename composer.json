@@ -1,0 +1,8 @@
+{
+    "scripts": {
+      "compile": [
+        "chmod 555 assets/js/index.js",
+        "chmod 555 assets/img/"
+      ]
+    }
+  }
